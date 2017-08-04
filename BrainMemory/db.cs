@@ -15,7 +15,7 @@ namespace BrainMemory
         //public SqlConnection myConnection = new SqlConnection("server=MSI;Trusted_Connection=yes;database=brainmemory;connection timeout=30");
 
 
-        public SQLiteConnection myConnection = new SQLiteConnection("Data Source=./brainmemorydb.db;Version=3;");
+        public SQLiteConnection myConnection = new SQLiteConnection("Data Source=../../brainmemorydb.db;Version=3;");
 
 
 
